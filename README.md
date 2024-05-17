@@ -1,47 +1,47 @@
 # Machine Learning Bootcamp
 
-Welcome to my Machine Learning Bootcamp repository! Here you will find exercises and explanations from the following bootcamp: https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=LEADERSALE24B
+Welcome to my Machine Learning Bootcamp repository! Here you will find exercises from a bootcamp.
 
 ## Contents
 
 This repository is organized into different folders, each corresponding to various topics covered in the bootcamp:
 
 1. **01-Python-Crash-Course**
-   - Introduction to Python
+   - Python exercises
 2. **02-Python-for-Data-Analysis-NumPy**
-   - Data Analysis with NumPy
+   - NumPy exercises
 3. **03-Python-for-Data-Analysis-Pandas**
-   - Data Analysis with Pandas
+   - Pandas exercises
 4. **04-Pandas-Exercises**
-   - Pandas Exercises
+   - Additional Pandas exercises
 5. **05-Data-Visualization-with-Matplotlib**
-   - Data Visualization with Matplotlib
+   - Matplotlib exercises
 6. **06-Data-Visualization-with-Seaborn**
-   - Data Visualization with Seaborn
+   - Seaborn exercises
 7. **07-Pandas-Built-in-Data-Viz**
-   - Pandas Built-in Data Visualization
+   - Pandas built-in data visualization exercises
 8. **10-Data-Capstone-Projects**
-   - Capstone Projects
+   - Capstone projects
 9. **11-Linear-Regression**
-   - Linear Regression
+   - Linear regression exercises
 10. **13-Logistic-Regression**
-    - Logistic Regression
+    - Logistic regression exercises
 11. **14-K-Nearest-Neighbors**
-    - K-Nearest Neighbors
+    - K-Nearest Neighbors exercises
 12. **15-Decision-Trees-and-Random-Forests**
-    - Decision Trees and Random Forests
+    - Decision trees and random forests exercises
 13. **16-Support-Vector-Machines**
-    - Support Vector Machines
+    - Support vector machines exercises
 14. **17-K-Means-Clustering**
-    - K-Means Clustering
+    - K-Means clustering exercises
 15. **18-Principal-Component-Analysis**
-    - Principal Component Analysis
+    - Principal component analysis exercises
 16. **19-Recommender-Systems**
-    - Recommender Systems
+    - Recommender systems exercises
 17. **20-Natural-Language-Processing**
-    - Natural Language Processing
+    - Natural language processing exercises
 18. **22-Deep Learning**
-    - Deep Learning
+    - Deep learning exercises
 
 ## Requirements
 
